@@ -1,0 +1,3 @@
+[2020-10-07 12:15:06.818] [sharedprocess] [info] main {"machineId":"1659d5de98327a395ab93e1659d550f5d5e7a14b1bb8c4245b602c691a50bbae","windowId":2}
+[2020-10-07 12:15:06.870] [sharedprocess] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/var/www/my-symfony/~/.vscode-root/User/snippets'
+[2020-10-07 12:15:46.831] [sharedprocess] [info] Starting to clean up unused language packs.

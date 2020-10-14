@@ -1,0 +1,3 @@
+[2020-10-12 20:34:37.909] [sharedprocess] [info] main {"machineId":"1659d5de98327a395ab93e1659d550f5d5e7a14b1bb8c4245b602c691a50bbae","windowId":2}
+[2020-10-12 20:35:17.917] [sharedprocess] [info] Starting to clean up unused language packs.
+[2020-10-12 20:35:17.919] [sharedprocess] [info] Skipping directory fa1f91c72d94ee0101c18a25389ac213.fr. Language pack still in use.

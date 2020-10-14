@@ -1,0 +1,193 @@
+DEBUG     Checking PHPLS_ALLOW_XDEBUG
+DEBUG     The xdebug extension is not loaded
+
+[Info  - 20:34:44] 1208 files total
+[Info  - 20:34:44] Indexing project for definitions and static references
+Parsing file:///var/www/my-symfony/vendor/autoload.php
+Parsing file:///var/www/my-symfony/vendor/composer/autoload_classmap.php
+Parsing file:///var/www/my-symfony/vendor/composer/autoload_namespaces.php
+Parsing file:///var/www/my-symfony/vendor/composer/autoload_real.php
+Parsing file:///var/www/my-symfony/vendor/composer/autoload_psr4.php
+Parsing file:///var/www/my-symfony/vendor/composer/autoload_static.php
+Parsing file:///var/www/my-symfony/vendor/composer/ClassLoader.php
+Parsing file:///var/www/my-symfony/vendor/composer/autoload_files.php
+Parsing file:///var/www/my-symfony/info.php
+Parsing file:///var/www/my-symfony/tests/IndexTest.php
+Parsing file:///var/www/my-symfony/src/pages/bye.php
+Parsing file:///var/www/my-symfony/src/pages/hello.php
+Parsing file:///var/www/my-symfony/src/pages/cms/about.php
+[Info  - 20:34:44] Indexing project for dynamic references
+Parsing file:///var/www/my-symfony/vendor/autoload.php
+Parsing file:///var/www/my-symfony/vendor/composer/autoload_classmap.php
+Parsing file:///var/www/my-symfony/vendor/composer/autoload_namespaces.php
+Parsing file:///var/www/my-symfony/vendor/composer/autoload_real.php
+Parsing file:///var/www/my-symfony/vendor/composer/autoload_psr4.php
+Parsing file:///var/www/my-symfony/vendor/composer/autoload_static.php
+Parsing file:///var/www/my-symfony/vendor/composer/ClassLoader.php
+Parsing file:///var/www/my-symfony/vendor/composer/autoload_files.php
+Parsing file:///var/www/my-symfony/info.php
+Parsing file:///var/www/my-symfony/tests/IndexTest.php
+Parsing file:///var/www/my-symfony/src/pages/bye.php
+Parsing file:///var/www/my-symfony/src/pages/hello.php
+Parsing file:///var/www/my-symfony/src/pages/cms/about.php
+[Info  - 20:34:45] 39 Packages
+[Info  - 20:34:45] Restored theseer/tokenizer:1.2.0 from cache
+[Info  - 20:34:45] Restored sebastian/code-unit-reverse-lookup:2.0.3 from cache
+[Info  - 20:34:45] Restored sebastian/code-unit:1.0.7 from cache
+[Info  - 20:34:45] Restored sebastian/environment:5.1.3 from cache
+[Info  - 20:34:45] Restored sebastian/global-state:5.0.1 from cache
+[Info  - 20:34:45] Restored sebastian/object-enumerator:4.0.3 from cache
+[Info  - 20:34:45] Restored sebastian/complexity:2.0.1 from cache
+[Info  - 20:34:45] Restored sebastian/lines-of-code:1.0.1 from cache
+[Info  - 20:34:45] Restored sebastian/cli-parser:1.0.1 from cache
+[Info  - 20:34:45] Restored sebastian/exporter:4.0.3 from cache
+[Info  - 20:34:45] Restored sebastian/resource-operations:3.0.3 from cache
+[Info  - 20:34:45] Restored sebastian/object-reflector:2.0.3 from cache
+[Info  - 20:34:45] Restored sebastian/recursion-context:4.0.3 from cache
+[Info  - 20:34:45] Restored sebastian/type:2.2.2 from cache
+[Info  - 20:34:45] Restored sebastian/diff:4.0.3 from cache
+[Info  - 20:34:45] Restored sebastian/comparator:4.0.5 from cache
+[Info  - 20:34:45] Restored sebastian/version:3.0.2 from cache
+[Info  - 20:34:45] Restored phpdocumentor/reflection-common:2.2.0 from cache
+[Info  - 20:34:45] Restored phpdocumentor/type-resolver:1.4.0 from cache
+[Info  - 20:34:45] Restored phpdocumentor/reflection-docblock:5.2.2 from cache
+[Info  - 20:34:45] Restored symfony/http-foundation:5.1.6 from cache
+[Info  - 20:34:45] Restored symfony/polyfill-mbstring:1.18.1 from cache
+[Info  - 20:34:45] Restored symfony/deprecation-contracts:2.2.0 from cache
+[Info  - 20:34:45] Restored symfony/polyfill-php80:1.18.1 from cache
+[Info  - 20:34:45] Indexing symfony/routing:5.1.7 for definitions and static references
+Parsing file:///var/www/my-symfony/vendor/symfony/routing/Loader/ContainerLoader.php
+Parsing file:///var/www/my-symfony/vendor/symfony/routing/Loader/AnnotationFileLoader.php
+Parsing file:///var/www/my-symfony/vendor/symfony/routing/Loader/AnnotationClassLoader.php
+Parsing file:///var/www/my-symfony/vendor/symfony/routing/Loader/ClosureLoader.php
+Parsing file:///var/www/my-symfony/vendor/symfony/routing/Loader/AnnotationDirectoryLoader.php
+Parsing file:///var/www/my-symfony/vendor/symfony/routing/Loader/DirectoryLoader.php
+Parsing file:///var/www/my-symfony/vendor/symfony/routing/Loader/GlobFileLoader.php
+Parsing file:///var/www/my-symfony/vendor/symfony/routing/Loader/YamlFileLoader.php
+Parsing file:///var/www/my-symfony/vendor/symfony/routing/Loader/PhpFileLoader.php
+Parsing file:///var/www/my-symfony/vendor/symfony/routing/Loader/Configurator/Traits/PrefixTrait.php
+Parsing file:///var/www/my-symfony/vendor/symfony/routing/Loader/Configurator/Traits/HostTrait.php
+Parsing file:///var/www/my-symfony/vendor/symfony/routing/Loader/Configurator/Traits/RouteTrait.php
+Parsing file:///var/www/my-symfony/vendor/symfony/routing/Loader/Configurator/Traits/LocalizedRouteTrait.php
+Parsing file:///var/www/my-symfony/vendor/symfony/routing/Loader/Configurator/Traits/AddTrait.php
+Parsing file:///var/www/my-symfony/vendor/symfony/routing/Loader/Configurator/RoutingConfigurator.php
+Parsing file:///var/www/my-symfony/vendor/symfony/routing/Loader/Configurator/CollectionConfigurator.php
+Parsing file:///var/www/my-symfony/vendor/symfony/routing/Loader/Configurator/RouteConfigurator.php
+Parsing file:///var/www/my-symfony/vendor/symfony/routing/Loader/Configurator/ImportConfigurator.php
+Parsing file:///var/www/my-symfony/vendor/symfony/routing/Loader/ObjectLoader.php
+Parsing file:///var/www/my-symfony/vendor/symfony/routing/Loader/XmlFileLoader.php
+Parsing file:///var/www/my-symfony/vendor/symfony/routing/RouteCompilerInterface.php
+Parsing file:///var/www/my-symfony/vendor/symfony/routing/Exception/MethodNotAllowedException.php
+Parsing file:///var/www/my-symfony/vendor/symfony/routing/Exception/NoConfigurationException.php
+Parsing file:///var/www/my-symfony/vendor/symfony/routing/Exception/ExceptionInterface.php
+Parsing file:///var/www/my-symfony/vendor/symfony/routing/Exception/ResourceNotFoundException.php
+Parsing file:///var/www/my-symfony/vendor/symfony/routing/Exception/MissingMandatoryParametersException.php
+Parsing file:///var/www/my-symfony/vendor/symfony/routing/Exception/RouteNotFoundException.php
+Parsing file:///var/www/my-symfony/vendor/symfony/routing/Exception/InvalidParameterException.php
+Parsing file:///var/www/my-symfony/vendor/symfony/routing/DependencyInjection/RoutingResolverPass.php
+Parsing file:///var/www/my-symfony/vendor/symfony/routing/RouterInterface.php
+Parsing file:///var/www/my-symfony/vendor/symfony/routing/RequestContext.php
+Parsing file:///var/www/my-symfony/vendor/symfony/routing/CompiledRoute.php
+Parsing file:///var/www/my-symfony/vendor/symfony/routing/Router.php
+Parsing file:///var/www/my-symfony/vendor/symfony/routing/RouteCollection.php
+Parsing file:///var/www/my-symfony/vendor/symfony/routing/RouteCollectionBuilder.php
+Parsing file:///var/www/my-symfony/vendor/symfony/routing/Generator/CompiledUrlGenerator.php
+Parsing file:///var/www/my-symfony/vendor/symfony/routing/Generator/ConfigurableRequirementsInterface.php
+Parsing file:///var/www/my-symfony/vendor/symfony/routing/Generator/UrlGenerator.php
+Parsing file:///var/www/my-symfony/vendor/symfony/routing/Generator/Dumper/GeneratorDumper.php
+Parsing file:///var/www/my-symfony/vendor/symfony/routing/Generator/Dumper/CompiledUrlGeneratorDumper.php
+Parsing file:///var/www/my-symfony/vendor/symfony/routing/Generator/Dumper/GeneratorDumperInterface.php
+Parsing file:///var/www/my-symfony/vendor/symfony/routing/Generator/UrlGeneratorInterface.php
+Parsing file:///var/www/my-symfony/vendor/symfony/routing/Annotation/Route.php
+Parsing file:///var/www/my-symfony/vendor/symfony/routing/RouteCompiler.php
+Parsing file:///var/www/my-symfony/vendor/symfony/routing/Matcher/RedirectableUrlMatcherInterface.php
+Parsing file:///var/www/my-symfony/vendor/symfony/routing/Matcher/TraceableUrlMatcher.php
+Parsing file:///var/www/my-symfony/vendor/symfony/routing/Matcher/UrlMatcherInterface.php
+Parsing file:///var/www/my-symfony/vendor/symfony/routing/Matcher/RequestMatcherInterface.php
+Parsing file:///var/www/my-symfony/vendor/symfony/routing/Matcher/ExpressionLanguageProvider.php
+Parsing file:///var/www/my-symfony/vendor/symfony/routing/Matcher/Dumper/StaticPrefixCollection.php
+Parsing file:///var/www/my-symfony/vendor/symfony/routing/Matcher/Dumper/CompiledUrlMatcherDumper.php
+Parsing file:///var/www/my-symfony/vendor/symfony/routing/Matcher/Dumper/CompiledUrlMatcherTrait.php
+Parsing file:///var/www/my-symfony/vendor/symfony/routing/Matcher/Dumper/MatcherDumperInterface.php
+Parsing file:///var/www/my-symfony/vendor/symfony/routing/Matcher/Dumper/MatcherDumper.php
+Parsing file:///var/www/my-symfony/vendor/symfony/routing/Matcher/CompiledUrlMatcher.php
+Parsing file:///var/www/my-symfony/vendor/symfony/routing/Matcher/UrlMatcher.php
+Parsing file:///var/www/my-symfony/vendor/symfony/routing/Matcher/RedirectableUrlMatcher.php
+Parsing file:///var/www/my-symfony/vendor/symfony/routing/Route.php
+Parsing file:///var/www/my-symfony/vendor/symfony/routing/RequestContextAwareInterface.php
+[Info  - 20:34:45] Indexing symfony/routing:5.1.7 for dynamic references
+Parsing file:///var/www/my-symfony/vendor/symfony/routing/Loader/ContainerLoader.php
+Parsing file:///var/www/my-symfony/vendor/symfony/routing/Loader/AnnotationFileLoader.php
+Parsing file:///var/www/my-symfony/vendor/symfony/routing/Loader/AnnotationClassLoader.php
+Parsing file:///var/www/my-symfony/vendor/symfony/routing/Loader/ClosureLoader.php
+Parsing file:///var/www/my-symfony/vendor/symfony/routing/Loader/AnnotationDirectoryLoader.php
+Parsing file:///var/www/my-symfony/vendor/symfony/routing/Loader/DirectoryLoader.php
+Parsing file:///var/www/my-symfony/vendor/symfony/routing/Loader/GlobFileLoader.php
+Parsing file:///var/www/my-symfony/vendor/symfony/routing/Loader/YamlFileLoader.php
+Parsing file:///var/www/my-symfony/vendor/symfony/routing/Loader/PhpFileLoader.php
+Parsing file:///var/www/my-symfony/vendor/symfony/routing/Loader/Configurator/Traits/PrefixTrait.php
+Parsing file:///var/www/my-symfony/vendor/symfony/routing/Loader/Configurator/Traits/HostTrait.php
+Parsing file:///var/www/my-symfony/vendor/symfony/routing/Loader/Configurator/Traits/RouteTrait.php
+Parsing file:///var/www/my-symfony/vendor/symfony/routing/Loader/Configurator/Traits/LocalizedRouteTrait.php
+Parsing file:///var/www/my-symfony/vendor/symfony/routing/Loader/Configurator/Traits/AddTrait.php
+Parsing file:///var/www/my-symfony/vendor/symfony/routing/Loader/Configurator/RoutingConfigurator.php
+Parsing file:///var/www/my-symfony/vendor/symfony/routing/Loader/Configurator/CollectionConfigurator.php
+Parsing file:///var/www/my-symfony/vendor/symfony/routing/Loader/Configurator/RouteConfigurator.php
+Parsing file:///var/www/my-symfony/vendor/symfony/routing/Loader/Configurator/ImportConfigurator.php
+Parsing file:///var/www/my-symfony/vendor/symfony/routing/Loader/ObjectLoader.php
+Parsing file:///var/www/my-symfony/vendor/symfony/routing/Loader/XmlFileLoader.php
+Parsing file:///var/www/my-symfony/vendor/symfony/routing/RouteCompilerInterface.php
+Parsing file:///var/www/my-symfony/vendor/symfony/routing/Exception/MethodNotAllowedException.php
+Parsing file:///var/www/my-symfony/vendor/symfony/routing/Exception/NoConfigurationException.php
+Parsing file:///var/www/my-symfony/vendor/symfony/routing/Exception/ExceptionInterface.php
+Parsing file:///var/www/my-symfony/vendor/symfony/routing/Exception/ResourceNotFoundException.php
+Parsing file:///var/www/my-symfony/vendor/symfony/routing/Exception/MissingMandatoryParametersException.php
+Parsing file:///var/www/my-symfony/vendor/symfony/routing/Exception/RouteNotFoundException.php
+Parsing file:///var/www/my-symfony/vendor/symfony/routing/Exception/InvalidParameterException.php
+Parsing file:///var/www/my-symfony/vendor/symfony/routing/DependencyInjection/RoutingResolverPass.php
+Parsing file:///var/www/my-symfony/vendor/symfony/routing/RouterInterface.php
+Parsing file:///var/www/my-symfony/vendor/symfony/routing/RequestContext.php
+Parsing file:///var/www/my-symfony/vendor/symfony/routing/CompiledRoute.php
+Parsing file:///var/www/my-symfony/vendor/symfony/routing/Router.php
+Parsing file:///var/www/my-symfony/vendor/symfony/routing/RouteCollection.php
+Parsing file:///var/www/my-symfony/vendor/symfony/routing/RouteCollectionBuilder.php
+Parsing file:///var/www/my-symfony/vendor/symfony/routing/Generator/CompiledUrlGenerator.php
+Parsing file:///var/www/my-symfony/vendor/symfony/routing/Generator/ConfigurableRequirementsInterface.php
+Parsing file:///var/www/my-symfony/vendor/symfony/routing/Generator/UrlGenerator.php
+Parsing file:///var/www/my-symfony/vendor/symfony/routing/Generator/Dumper/GeneratorDumper.php
+Parsing file:///var/www/my-symfony/vendor/symfony/routing/Generator/Dumper/CompiledUrlGeneratorDumper.php
+Parsing file:///var/www/my-symfony/vendor/symfony/routing/Generator/Dumper/GeneratorDumperInterface.php
+Parsing file:///var/www/my-symfony/vendor/symfony/routing/Generator/UrlGeneratorInterface.php
+Parsing file:///var/www/my-symfony/vendor/symfony/routing/Annotation/Route.php
+Parsing file:///var/www/my-symfony/vendor/symfony/routing/RouteCompiler.php
+Parsing file:///var/www/my-symfony/vendor/symfony/routing/Matcher/RedirectableUrlMatcherInterface.php
+Parsing file:///var/www/my-symfony/vendor/symfony/routing/Matcher/TraceableUrlMatcher.php
+Parsing file:///var/www/my-symfony/vendor/symfony/routing/Matcher/UrlMatcherInterface.php
+Parsing file:///var/www/my-symfony/vendor/symfony/routing/Matcher/RequestMatcherInterface.php
+Parsing file:///var/www/my-symfony/vendor/symfony/routing/Matcher/ExpressionLanguageProvider.php
+Parsing file:///var/www/my-symfony/vendor/symfony/routing/Matcher/Dumper/StaticPrefixCollection.php
+Parsing file:///var/www/my-symfony/vendor/symfony/routing/Matcher/Dumper/CompiledUrlMatcherDumper.php
+Parsing file:///var/www/my-symfony/vendor/symfony/routing/Matcher/Dumper/CompiledUrlMatcherTrait.php
+Parsing file:///var/www/my-symfony/vendor/symfony/routing/Matcher/Dumper/MatcherDumperInterface.php
+Parsing file:///var/www/my-symfony/vendor/symfony/routing/Matcher/Dumper/MatcherDumper.php
+Parsing file:///var/www/my-symfony/vendor/symfony/routing/Matcher/CompiledUrlMatcher.php
+Parsing file:///var/www/my-symfony/vendor/symfony/routing/Matcher/UrlMatcher.php
+Parsing file:///var/www/my-symfony/vendor/symfony/routing/Matcher/RedirectableUrlMatcher.php
+Parsing file:///var/www/my-symfony/vendor/symfony/routing/Route.php
+Parsing file:///var/www/my-symfony/vendor/symfony/routing/RequestContextAwareInterface.php
+[Info  - 20:34:46] Storing symfony/routing:5.1.7 in cache
+[Info  - 20:34:46] Restored symfony/polyfill-ctype:1.18.1 from cache
+[Info  - 20:34:46] Restored nikic/php-parser:4.10.2 from cache
+[Info  - 20:34:46] Restored phpunit/php-file-iterator:3.0.5 from cache
+[Info  - 20:34:46] Restored phpunit/php-timer:5.0.2 from cache
+[Info  - 20:34:46] Restored phpunit/php-code-coverage:9.2.0 from cache
+[Info  - 20:34:46] Restored phpunit/php-text-template:2.0.3 from cache
+[Info  - 20:34:46] Restored phpunit/php-invoker:3.1.1 from cache
+[Info  - 20:34:46] Restored phpunit/phpunit:9.4.0 from cache
+[Info  - 20:34:46] Restored phpspec/prophecy:1.12.1 from cache
+[Info  - 20:34:46] Restored doctrine/instantiator:1.3.1 from cache
+[Info  - 20:34:46] Restored webmozart/assert:1.9.1 from cache
+[Info  - 20:34:46] Restored phar-io/manifest:2.0.1 from cache
+[Info  - 20:34:46] Restored phar-io/version:3.0.2 from cache
+[Info  - 20:34:46] Restored myclabs/deep-copy:1.10.1 from cache
+[Info  - 20:34:46] All 1208 PHP files parsed in 1 seconds. 222 MiB allocated.

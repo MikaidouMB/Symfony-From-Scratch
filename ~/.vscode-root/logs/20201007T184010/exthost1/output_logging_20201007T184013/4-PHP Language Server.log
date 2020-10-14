@@ -1,0 +1,70 @@
+DEBUG     Checking PHPLS_ALLOW_XDEBUG
+DEBUG     The xdebug extension is not loaded
+
+[Info  - 18:40:13] 1148 files total
+[Info  - 18:40:13] Indexing project for definitions and static references
+Parsing file:///var/www/my-symfony/vendor/autoload.php
+Parsing file:///var/www/my-symfony/vendor/composer/autoload_classmap.php
+Parsing file:///var/www/my-symfony/vendor/composer/autoload_namespaces.php
+Parsing file:///var/www/my-symfony/vendor/composer/autoload_real.php
+Parsing file:///var/www/my-symfony/vendor/composer/autoload_psr4.php
+Parsing file:///var/www/my-symfony/vendor/composer/autoload_static.php
+Parsing file:///var/www/my-symfony/vendor/composer/ClassLoader.php
+Parsing file:///var/www/my-symfony/vendor/composer/autoload_files.php
+Parsing file:///var/www/my-symfony/info.php
+Parsing file:///var/www/my-symfony/tests/IndexTest.php
+Parsing file:///var/www/my-symfony/index.php
+Parsing file:///var/www/my-symfony/src/pages/hello.php
+[Info  - 18:40:13] Indexing project for dynamic references
+Parsing file:///var/www/my-symfony/vendor/autoload.php
+Parsing file:///var/www/my-symfony/vendor/composer/autoload_classmap.php
+Parsing file:///var/www/my-symfony/vendor/composer/autoload_namespaces.php
+Parsing file:///var/www/my-symfony/vendor/composer/autoload_real.php
+Parsing file:///var/www/my-symfony/vendor/composer/autoload_psr4.php
+Parsing file:///var/www/my-symfony/vendor/composer/autoload_static.php
+Parsing file:///var/www/my-symfony/vendor/composer/ClassLoader.php
+Parsing file:///var/www/my-symfony/vendor/composer/autoload_files.php
+Parsing file:///var/www/my-symfony/info.php
+Parsing file:///var/www/my-symfony/tests/IndexTest.php
+Parsing file:///var/www/my-symfony/index.php
+Parsing file:///var/www/my-symfony/src/pages/hello.php
+[Info  - 18:40:13] 38 Packages
+[Info  - 18:40:13] Restored theseer/tokenizer:1.2.0 from cache
+[Info  - 18:40:13] Restored sebastian/code-unit-reverse-lookup:2.0.3 from cache
+[Info  - 18:40:13] Restored sebastian/code-unit:1.0.7 from cache
+[Info  - 18:40:13] Restored sebastian/environment:5.1.3 from cache
+[Info  - 18:40:13] Restored sebastian/global-state:5.0.1 from cache
+[Info  - 18:40:13] Restored sebastian/object-enumerator:4.0.3 from cache
+[Info  - 18:40:13] Restored sebastian/complexity:2.0.1 from cache
+[Info  - 18:40:13] Restored sebastian/lines-of-code:1.0.1 from cache
+[Info  - 18:40:13] Restored sebastian/cli-parser:1.0.1 from cache
+[Info  - 18:40:13] Restored sebastian/exporter:4.0.3 from cache
+[Info  - 18:40:13] Restored sebastian/resource-operations:3.0.3 from cache
+[Info  - 18:40:13] Restored sebastian/object-reflector:2.0.3 from cache
+[Info  - 18:40:13] Restored sebastian/recursion-context:4.0.3 from cache
+[Info  - 18:40:13] Restored sebastian/type:2.2.2 from cache
+[Info  - 18:40:13] Restored sebastian/diff:4.0.3 from cache
+[Info  - 18:40:13] Restored sebastian/comparator:4.0.5 from cache
+[Info  - 18:40:13] Restored sebastian/version:3.0.2 from cache
+[Info  - 18:40:13] Restored phpdocumentor/reflection-common:2.2.0 from cache
+[Info  - 18:40:13] Restored phpdocumentor/type-resolver:1.4.0 from cache
+[Info  - 18:40:13] Restored phpdocumentor/reflection-docblock:5.2.2 from cache
+[Info  - 18:40:13] Restored symfony/http-foundation:5.1.6 from cache
+[Info  - 18:40:13] Restored symfony/polyfill-mbstring:1.18.1 from cache
+[Info  - 18:40:13] Restored symfony/deprecation-contracts:2.2.0 from cache
+[Info  - 18:40:13] Restored symfony/polyfill-php80:1.18.1 from cache
+[Info  - 18:40:14] Restored symfony/polyfill-ctype:1.18.1 from cache
+[Info  - 18:40:14] Restored nikic/php-parser:4.10.2 from cache
+[Info  - 18:40:14] Restored phpunit/php-file-iterator:3.0.5 from cache
+[Info  - 18:40:14] Restored phpunit/php-timer:5.0.2 from cache
+[Info  - 18:40:14] Restored phpunit/php-code-coverage:9.2.0 from cache
+[Info  - 18:40:14] Restored phpunit/php-text-template:2.0.3 from cache
+[Info  - 18:40:14] Restored phpunit/php-invoker:3.1.1 from cache
+[Info  - 18:40:14] Restored phpunit/phpunit:9.4.0 from cache
+[Info  - 18:40:14] Restored phpspec/prophecy:1.12.1 from cache
+[Info  - 18:40:14] Restored doctrine/instantiator:1.3.1 from cache
+[Info  - 18:40:14] Restored webmozart/assert:1.9.1 from cache
+[Info  - 18:40:14] Restored phar-io/manifest:2.0.1 from cache
+[Info  - 18:40:14] Restored phar-io/version:3.0.2 from cache
+[Info  - 18:40:14] Restored myclabs/deep-copy:1.10.1 from cache
+[Info  - 18:40:14] All 1148 PHP files parsed in 0 seconds. 216 MiB allocated.

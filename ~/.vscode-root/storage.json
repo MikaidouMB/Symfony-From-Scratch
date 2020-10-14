@@ -377,8 +377,7 @@
                                 },
                                 {
                                     "id": "workbench.action.toggleSidebarVisibility",
-                                    "label": "Afficher la &&barre latérale",
-                                    "checked": true
+                                    "label": "Afficher la &&barre latérale"
                                 },
                                 {
                                     "id": "workbench.action.toggleStatusbarVisibility",
